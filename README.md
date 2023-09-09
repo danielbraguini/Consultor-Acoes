@@ -6,9 +6,6 @@ Consultor-Acoes é uma aplicação Python que permite acompanhar e monitorar os 
 
 - **Consulta de Valores**: Obtenha informações atualizadas sobre o valor de ações específicas.
 - **Formatação de Destaque**: Destaque as ações consultadas para fácil identificação.
-- **Notificações**: Receba notificações sobre mudanças significativas nos valores das ações.
-- **Registro de Ações**: Registre ações já consultadas para acompanhamento contínuo.
-- **Detalhes das Ações**: Acesse dados detalhados sobre cada ação, incluindo gráficos históricos.
 
 ## Capturas de Tela
 
