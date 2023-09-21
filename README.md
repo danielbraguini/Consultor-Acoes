@@ -1,6 +1,6 @@
 # Consultor-Acoes
 
-Consultor-Acoes é uma aplicação Python que permite acompanhar e monitorar os valores das ações no mercado financeiro em tempo real. Esta ferramenta intuitiva é projetada para ajudar investidores e entusiastas do mercado de ações a tomarem decisões informadas sobre seus investimentos.
+Consultor Acoes é uma aplicação Python que permite visualizar os valores das ações no mercado financeiro em tempo real.
 
 ## Funcionalidades Principais
 
@@ -41,12 +41,6 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto, siga est
 4. Push para a branch: `git push origin feature/nova-funcionalidade`
 5. Envie um pull request.
 
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
-
-**Consultor-Acoes** - Sua ferramenta essencial para acompanhamento de valores de ações no mercado financeiro.
 
 Desenvolvido por [Daniel Braguini](https://github.com/danielbraguini)
